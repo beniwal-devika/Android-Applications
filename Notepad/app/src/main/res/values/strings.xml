@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="file_name">notes0.json</string>
+    <string name="encoding">UTF-8</string>
+</resources>
